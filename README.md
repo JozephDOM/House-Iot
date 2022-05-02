@@ -1,2 +1,2 @@
-# Huse-Iot
+# House-Iot
 House automatisation
